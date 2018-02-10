@@ -1,0 +1,31 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-filter": "^5.0.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-zip": "^4.0.0",
+    "postcss-bem": "^0.4.1",
+    "postcss-css-reset": "^1.0.2",
+    "postcss-nested": "^2.1.0",
+    "postcss-pxtorem": "^4.0.1",
+    "postcss-shape": "^0.0.1",
+    "postcss-utils": "^1.0.2",
+    "precss": "^2.0.0",
+    "saladcss-bem": "^0.0.2"
+  }
+}
